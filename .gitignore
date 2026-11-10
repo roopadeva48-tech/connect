@@ -45,17 +45,17 @@ Thumbs.db
 .tmp/
 .temp/
 
-# TypeScript
+
 *.tsbuildinfo
 
-# Cache
+
 .cache/
 .parcel-cache/
 
-# Miscellaneous
+
 .next/
 .vercel/
 .netlify/
 
-# Local development
+
 *.local
