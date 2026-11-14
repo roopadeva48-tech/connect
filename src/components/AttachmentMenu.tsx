@@ -11,7 +11,6 @@ import {
   Sparkles,
   Receipt,
 } from 'lucide-react';
-
 interface AttachmentMenuProps {
   isOpen: boolean;
   onClose: () => void;
